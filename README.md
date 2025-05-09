@@ -1,45 +1,52 @@
-Jogo da Adivinhação e Verificação de Quadrado
+Claro! Aqui está a versão do `README.md` sem emojis:
+
+---
+
+# Jogo da Adivinhação e Verificação de Quadrado
+
 Este projeto Java consiste em duas interfaces gráficas que apresentam funcionalidades educacionais e lúdicas:
 
-FormJogo: um mini jogo de adivinhação.
+1. **FormJogo**: um mini jogo de adivinhação.
+2. **FormQuadrado**: ferramenta para verificar se uma figura é um quadrado perfeito e calcular sua área.
 
-FormQuadrado: ferramenta para verificar se uma figura é um quadrado perfeito e calcular sua área.
+## Funcionalidades
 
-Funcionalidades
-Jogo da Adivinhação (FormJogo)
-Interface gráfica simples com dois botões:
+### Jogo da Adivinhação (`FormJogo`)
 
-Iniciar Jogo: gera um número aleatório (em construção).
+* Interface gráfica simples com dois botões:
 
-Tentativa: botão para inserir palpite (ainda sem lógica implementada).
+  * **Iniciar Jogo**: gera um número aleatório (em construção).
+  * **Tentativa**: botão para inserir palpite (ainda sem lógica implementada).
 
-Verificação de Quadrado (FormQuadrado)
-Três funcionalidades principais:
+### Verificação de Quadrado (`FormQuadrado`)
 
-É Perfeito?: verifica se dois lados informados são iguais.
+* Três funcionalidades principais:
 
-Área: calcula a área com base em dois lados fornecidos.
+  * **É Perfeito?**: verifica se dois lados informados são iguais.
+  * **Área**: calcula a área com base em dois lados fornecidos.
+  * **Informações**: exibe a área e informa se é ou não um quadrado perfeito.
 
-Informações: exibe a área e informa se é ou não um quadrado perfeito.
+## Tecnologias Utilizadas
 
-Tecnologias Utilizadas
-Java 8+
+* Java 8+
+* Swing (para interfaces gráficas)
+* Maven (gerenciador de dependências - arquivo `pom.xml` incluído)
 
-Swing (para interfaces gráficas)
+## Como Executar
 
-Maven (gerenciador de dependências - arquivo pom.xml incluído)
+1. Clone ou extraia este projeto.
+2. Abra em uma IDE Java (NetBeans é recomendada devido à estrutura `.form`).
+3. Compile e execute as classes `FormJogo` e `FormQuadrado` individualmente.
+4. As interfaces aparecerão em janelas separadas.
 
-Como Executar
-Clone ou extraia este projeto.
+## Autor
 
-Abra em uma IDE Java (NetBeans é recomendada devido à estrutura .form).
+* Desenvolvido por **Arthur**, com fins educativos e práticos para estudo de GUI em Java.
 
-Compile e execute as classes FormJogo e FormQuadrado individualmente.
+## Licença
 
-As interfaces aparecerão em janelas separadas.
-
-Autor
-Desenvolvido por Arthur, com fins educativos e práticos para estudo de GUI em Java.
-
-Licença
 Este projeto é aberto para fins de aprendizado e pode ser reutilizado conforme necessário, com os devidos créditos ao autor original.
+
+---
+
+Deseja que eu gere esse conteúdo como arquivo `README.md`?

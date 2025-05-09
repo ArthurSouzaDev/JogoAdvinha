@@ -48,5 +48,3 @@ Este projeto Java consiste em duas interfaces gráficas que apresentam funcional
 Este projeto é aberto para fins de aprendizado e pode ser reutilizado conforme necessário, com os devidos créditos ao autor original.
 
 ---
-
-Deseja que eu gere esse conteúdo como arquivo `README.md`?
